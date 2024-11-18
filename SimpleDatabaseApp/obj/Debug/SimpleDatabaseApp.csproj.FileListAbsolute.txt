@@ -1,0 +1,9 @@
+D:\Rider\University projects\AP_Sem_2\Lab3\SimpleDatabaseApp\SimpleDatabaseApp\bin\Debug\SimpleDatabaseApp.exe.config
+D:\Rider\University projects\AP_Sem_2\Lab3\SimpleDatabaseApp\SimpleDatabaseApp\bin\Debug\SimpleDatabaseApp.pdb
+D:\Rider\University projects\AP_Sem_2\Lab3\SimpleDatabaseApp\SimpleDatabaseApp\obj\Debug\SimpleDatabaseApp.csproj.AssemblyReference.cache
+D:\Rider\University projects\AP_Sem_2\Lab3\SimpleDatabaseApp\SimpleDatabaseApp\obj\Debug\SimpleDatabaseApp.Properties.Resources.resources
+D:\Rider\University projects\AP_Sem_2\Lab3\SimpleDatabaseApp\SimpleDatabaseApp\obj\Debug\SimpleDatabaseApp.csproj.GenerateResource.cache
+D:\Rider\University projects\AP_Sem_2\Lab3\SimpleDatabaseApp\SimpleDatabaseApp\obj\Debug\SimpleDatabaseApp.csproj.CoreCompileInputs.cache
+D:\Rider\University projects\AP_Sem_2\Lab3\SimpleDatabaseApp\SimpleDatabaseApp\obj\Debug\SimpleDatabaseApp.exe
+D:\Rider\University projects\AP_Sem_2\Lab3\SimpleDatabaseApp\SimpleDatabaseApp\obj\Debug\SimpleDatabaseApp.pdb
+D:\Rider\University projects\AP_Sem_2\Lab3\SimpleDatabaseApp\SimpleDatabaseApp\obj\Debug\SimpleDatabaseApp.csproj.CopyComplete
