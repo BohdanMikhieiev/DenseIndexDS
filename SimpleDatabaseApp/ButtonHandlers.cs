@@ -9,6 +9,7 @@ namespace SimpleDatabaseApp
         {
             AddDataForm.ShowForm(this);
             RebuildIndex();
+            SaveToTextFile();
         }
         public void EditData()
         {
@@ -17,6 +18,7 @@ namespace SimpleDatabaseApp
                 var rowIndex = dgvMainTable.SelectedRows[0].Index;
                 EditDataForm.ShowForm(this, rowIndex);
                 RebuildIndex();
+                SaveToTextFile();
             }
             else
             {
@@ -33,6 +35,7 @@ namespace SimpleDatabaseApp
                 IndexArea.RemoveAt(rowIndex);
                 UpdateTables();
                 RebuildIndex();
+                SaveToTextFile();
             }
             else
             {
@@ -44,6 +47,7 @@ namespace SimpleDatabaseApp
         {
             GenerateDataForm.ShowForm(this);
             RebuildIndex();
+            SaveToTextFile();
         }
 
         public void SearchData()

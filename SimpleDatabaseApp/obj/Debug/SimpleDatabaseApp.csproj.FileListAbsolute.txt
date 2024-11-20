@@ -6,4 +6,4 @@ D:\Rider\University projects\AP_Sem_2\Lab3\SimpleDatabaseApp\SimpleDatabaseApp\o
 D:\Rider\University projects\AP_Sem_2\Lab3\SimpleDatabaseApp\SimpleDatabaseApp\obj\Debug\SimpleDatabaseApp.csproj.CoreCompileInputs.cache
 D:\Rider\University projects\AP_Sem_2\Lab3\SimpleDatabaseApp\SimpleDatabaseApp\obj\Debug\SimpleDatabaseApp.exe
 D:\Rider\University projects\AP_Sem_2\Lab3\SimpleDatabaseApp\SimpleDatabaseApp\obj\Debug\SimpleDatabaseApp.pdb
-D:\Rider\University projects\AP_Sem_2\Lab3\SimpleDatabaseApp\SimpleDatabaseApp\obj\Debug\SimpleDatabaseApp.csproj.CopyComplete
+D:\Rider\University projects\AP_Sem_2\Lab3\SimpleDatabaseApp\SimpleDatabaseApp\obj\Debug\SimpleDa.0BC9A6AA.Up2Date

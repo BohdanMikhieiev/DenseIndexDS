@@ -28,14 +28,10 @@ namespace SimpleDatabaseApp
         }
         
         public void InitializeDatabase()
-        {
-            var initialRecord = new Record { ID = 1, Data = "Use ADD to manually add new content, don't forget to select the row to edit or delete it ^w^" };
-            
-           MainTable.Add(initialRecord);
-           IndexArea.Add(new IndexRecord { ID = MainTable[currentId-1].ID, Address = currentId-1 });
-
-           currentId++;
-           UpdateTables();
+        { 
+            LoadFromFile();
+            UpdateTables();
+            SaveToTextFile();
         }
 
         private void InitializeUI()
