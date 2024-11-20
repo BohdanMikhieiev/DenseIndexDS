@@ -1,0 +1,2 @@
+﻿1	Use ADD to manually add new content, don't forget to select the row to edit or delete it ^w^
+
